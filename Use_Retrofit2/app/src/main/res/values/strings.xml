@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Use_Retrofit2</string>
+    <string name="txtUserId">ID do usuario:</string>
+    <string name="txtBody">Digite seu email:</string>
+    <string name="btnEditComments">Editar</string>
+    <string name="txtTitulo">Nome</string>
+    <string name="txtBody1">Digite a mensagem:</string>
+    <string name="txtNome">Nome</string>
+    <string name="txtId">id</string>
+    <string name="txtEmail">email</string>
+</resources>
